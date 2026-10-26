@@ -1,2 +1,2 @@
-# Practica2
-Complejidad en Ordenamiento
+# PRACTICA2 
+Complejidad en ordenamiento.
